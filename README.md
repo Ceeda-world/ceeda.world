@@ -1,4 +1,4 @@
-![Ceeda.World Logo]([https://github.com/YourUsername/YourRepo/raw/main/images/logo.png](https://github.com/antarikshghosh/ceeda.world/blob/main/CeedaWorldFontLogoRemoveBG.png.png?raw=true))
+![Ceeda.World Logo]([https://github.com/antarikshghosh/ceeda.world/raw/main/images/logo.png](https://github.com/antarikshghosh/ceeda.world/blob/main/CeedaWorldFontLogoRemoveBG.png.png?raw=true))
 
 # Ceeda.World - Drone Rental SaaS Platform
 
